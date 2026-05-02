@@ -1,6 +1,6 @@
 
 
-git hub basics 
+git hub basics you should know
 
 0. git --version //to detect the version of git
  
@@ -22,4 +22,6 @@ git hub basics
 
 9. git commit -m "comment " //comment  to github
 
-0. git push -u origin master  //adding file to github
+10. git push -u origin master  //adding file to github
+
+
