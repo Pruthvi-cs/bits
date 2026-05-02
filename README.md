@@ -1,5 +1,5 @@
 # bits
-Githuhb basucs command 
+Githuhb basucs command you should know
 0. git --version //to detect the version of git
  
 1. git init  //initialise a git
@@ -20,4 +20,4 @@ Githuhb basucs command
 
 9. git commit -m "comment " //comment  to github
 
-0. git push -u origin master  //adding file to github
+10. git push -u origin master  //adding file to github
