@@ -1,4 +1,4 @@
-# bits
+# Bits
 Githuhb basucs command you should know
 ---
 0. git --version //to detect the version of git
